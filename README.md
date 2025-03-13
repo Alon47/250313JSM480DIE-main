@@ -34,3 +34,9 @@ rm - remove
     git remote add origin 
 
     git push -u origin main
+
+    git branch "name of the branch"
+
+    git checkout "branch name" (to change to that branch)
+
+    git merge "name of a branch" (to merge 2 branches 1 )
